@@ -29,7 +29,7 @@ services:
     depends_on:
       - db
     volumes:
-      - .:/var/www/html
+      - wordpress_data:/var/www/html
     ports:
       - "8000:80"
     depends_on:
