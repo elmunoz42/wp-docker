@@ -7,6 +7,10 @@ A Wordpress Docker Container that is an optimal development environment.
 
 ## Helpful articles:
 
+WSL and Docker
+
+https://www.most-useful.com/wsl2-and-docker-to-develop-your-wordpress-site.html
+
 Docker/WSL documentation: https://docs.docker.com/desktop/windows/wsl/
 
 Wordpress/Docker/SSL setup article: https://dev.to/vishalraj82/using-https-in-docker-for-local-development-nc7
