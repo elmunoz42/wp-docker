@@ -19,3 +19,14 @@ PHP/Mysql/WSL article: https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-gu
 https://youtu.be/kIqWxjDj4IU
 with repo: https://github.com/aschmelyun/docker-compose-wordpress
 
+## Cheat Sheet:
+
+Start container:
+docker compose up
+
+Reveal all active containers:
+docker ps 
+
+Kill a container (paste the correct id)
+docker kill 03u3r903r09u3r09u 
+
