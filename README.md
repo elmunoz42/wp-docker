@@ -7,6 +7,11 @@ A Wordpress Docker Container that is an optimal development environment.
 
 ## Helpful articles:
 
+Wordpress Docker:
+has guide for ssl and permanent db storage
+
+https://github.com/dorumarginean/wordpress-docker
+
 WSL and Docker
 
 https://www.most-useful.com/wsl2-and-docker-to-develop-your-wordpress-site.html
